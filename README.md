@@ -25,37 +25,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-hotpink?style=for-the-badge&logo=SASS&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&langs_count=10" height="150" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&column=7" />
-</p>
-
----
-
-### 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=your-username&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Contact
 
 - GitHub: [@YashS-2519](https://github.com/YashS-2519)  
