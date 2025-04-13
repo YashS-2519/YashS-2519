@@ -25,6 +25,18 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-hotpink?style=for-the-badge&logo=SASS&logoColor=white)
 
+### 📈 Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=C5C5C5&background=FF000000&center=true&vCenter=true&random=false&width=380&height=100&repeat=false&lines=I+use+arch+btw." alt="Typing SVG - Arch User" />
+</p>
+
 ### 📫 Contact
 
 - GitHub: [@YashS-2519](https://github.com/YashS-2519)  
